@@ -30,8 +30,7 @@ menu:
       weight: 5
 
 params:
-  description: "This site serves as a report and as a part of my effort towards my major pursuit: don't fool myself."
-  footer: "Made with Hugo XMin"
+  footer: "Innominatum 2025 | Made with Hugo XMin"
 
 markup:
   highlight:
