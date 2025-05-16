@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://innominatum.xyz/</loc>
     <lastmod>2025-05-10T19:17:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/remarks/</loc>
+    <loc>https://innominatum.xyz/remarks/</loc>
     <lastmod>2025-05-10T19:17:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/remarks/testremark/</loc>
+    <loc>https://innominatum.xyz/remarks/testremark/</loc>
     <lastmod>2025-05-10T19:17:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://innominatum.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/pointers/</loc>
+    <loc>https://innominatum.xyz/pointers/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://innominatum.xyz/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://innominatum.xyz/tags/</loc>
   </url>
 </urlset>
